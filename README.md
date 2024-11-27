@@ -1,6 +1,6 @@
 ## About me
 
-<h1 align="left"> 데이터를 통해 세상을 바라보는 데이터 분석가 천효빈입니다.</h1>
+<h2 align="left"> 데이터를 통해 세상을 바라보는 데이터 분석가 천효빈입니다.</h2>
 <h3 align="left"> I am hyobin! </h3>
 
 
